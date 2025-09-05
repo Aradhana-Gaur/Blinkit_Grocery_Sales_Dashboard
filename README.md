@@ -1,4 +1,4 @@
-<img width="1245" height="541" alt="Dashboard_Screenshort" src="https://github.com/user-attachments/assets/9c2a0d3d-6f60-4527-9285-ad49f1039710" /># Blinkit_Grocery_Sales_Dashboard
+# Blinkit_Grocery_Sales_Dashboard
 Interactive Excel dashboard for BlinkIT-style grocery sales data - includes KPIs, slicers, pivot charts, and insights by outlet type, size, location, and product mix.
 # BlinkIT Grocery Sales – Excel Dashboard
 
